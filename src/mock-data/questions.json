@@ -2,11 +2,31 @@
   {
     "id": "q1",
     "questionNumber": 1,
-    "companyId": "1",
+    "companyId": "c1",
     "companyName": "PhonePe",
-    "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/PhonePe_Logo.svg/512px-PhonePe_Logo.svg.png",
+    "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/PhonePe_Logo.svg",
     "text": "API latency is variable & app is sluggish. How do you design UI safely?",
     "durationMinutes": 2,
-    "completedTodayCount": 2312
+    "completedTodayCount": 1642
+  },
+  {
+    "id": "q2",
+    "questionNumber": 2,
+    "companyId": "c2",
+    "companyName": "Amazon",
+    "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "text": "Design a rate limiter for a public facing API in a distributed environment.",
+    "durationMinutes": 3,
+    "completedTodayCount": 854
+  },
+  {
+    "id": "q3",
+    "questionNumber": 3,
+    "companyId": "c3",
+    "companyName": "Google",
+    "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+    "text": "How do you render a list of 100,000 items efficiently in a React Native app?",
+    "durationMinutes": 2,
+    "completedTodayCount": 2100
   }
 ]

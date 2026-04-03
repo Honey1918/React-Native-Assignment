@@ -1,7 +1,17 @@
 [
   {
-    "id": "1",
+    "id": "c1",
     "name": "PhonePe",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/PhonePe_Logo.svg/512px-PhonePe_Logo.svg.png"
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/PhonePe_Logo.svg"
+  },
+  {
+    "id": "c2",
+    "name": "Amazon",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+  },
+  {
+    "id": "c3",
+    "name": "Google",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
   }
 ]
