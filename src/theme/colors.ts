@@ -51,6 +51,7 @@ export const colors = {
   primary: palette.orange50,
   primaryLight: palette.orange10,
   primaryDark: palette.orange60,
+  primaryExtraDark: palette.orange70,
 
   // Text
   textPrimary: palette.gray90,

@@ -15,6 +15,7 @@ export const spacing = {
   xxl: 32,
   xxxl: 40,
   giga: 64,
+  mega: 80,
 
   // Semantic
   screenPadding: 20,
